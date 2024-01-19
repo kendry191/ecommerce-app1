@@ -1,0 +1,158 @@
+.checkout-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.checkout-text {
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 800;
+}
+.checkout-container1 {
+  width: 1102px;
+  height: 344px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.checkout-container2 {
+  width: 641px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.checkout-card-number {
+  top: 281px;
+  left: 238px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-exp-date {
+  top: 331px;
+  left: 237px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-cvv {
+  top: 376px;
+  left: 237px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-card-name {
+  top: 423px;
+  left: 236px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-text01 {
+  top: 337px;
+  left: 75px;
+  position: absolute;
+}
+.checkout-text02 {
+  top: 290px;
+  left: 116px;
+  position: absolute;
+}
+.checkout-text03 {
+  top: 382px;
+  left: 122px;
+  position: absolute;
+}
+.checkout-text04 {
+  top: 430px;
+  left: 109px;
+  position: absolute;
+}
+.checkout-container3 {
+  width: 654px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.checkout-street-address {
+  top: 286px;
+  left: 826px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-city {
+  top: 336px;
+  left: 825px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-state {
+  top: 381px;
+  left: 825px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-zip {
+  top: 428px;
+  left: 824px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.checkout-text06 {
+  top: 341px;
+  left: 747px;
+  position: absolute;
+}
+.checkout-text07 {
+  top: 289px;
+  left: 709px;
+  position: absolute;
+}
+.checkout-text08 {
+  top: 389px;
+  left: 746px;
+  position: absolute;
+}
+.checkout-text09 {
+  top: 435px;
+  left: 725px;
+  position: absolute;
+}
+.checkout-button {
+  color: var(--dl-color-gray-black);
+  width: 258px;
+  height: 54px;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}

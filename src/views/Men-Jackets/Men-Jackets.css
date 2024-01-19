@@ -1,0 +1,14 @@
+.men-jackets-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.men-jackets-text {
+  font-size: 45px;
+  font-style: italic;
+  font-weight: 700;
+  text-transform: capitalize;
+}

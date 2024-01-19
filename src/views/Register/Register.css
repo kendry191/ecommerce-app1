@@ -1,0 +1,71 @@
+.register-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.register-full-name {
+  top: 259px;
+  left: 504px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.register-username {
+  top: 309px;
+  left: 503px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.register-password {
+  top: 354px;
+  left: 503px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.register-email {
+  top: 401px;
+  left: 502px;
+  color: #000000;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  background-color: #ffffff;
+}
+.register-text {
+  top: 310px;
+  left: 423px;
+  position: absolute;
+}
+.register-text1 {
+  top: 263px;
+  left: 423px;
+  position: absolute;
+}
+.register-text2 {
+  top: 358px;
+  left: 426px;
+  position: absolute;
+}
+.register-text3 {
+  top: 408px;
+  left: 439px;
+  position: absolute;
+}
+.register-register {
+  top: 473px;
+  left: 522px;
+  position: absolute;
+  padding-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
