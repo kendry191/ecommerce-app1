@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kendry191.github.io/ecommerce-app1/static/css/main.fec4f4b4.css",
+    "main.js": "/kendry191.github.io/ecommerce-app1/static/js/main.a41a2aab.js",
+    "index.html": "/kendry191.github.io/ecommerce-app1/index.html",
+    "main.fec4f4b4.css.map": "/kendry191.github.io/ecommerce-app1/static/css/main.fec4f4b4.css.map",
+    "main.a41a2aab.js.map": "/kendry191.github.io/ecommerce-app1/static/js/main.a41a2aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec4f4b4.css",
+    "static/js/main.a41a2aab.js"
+  ]
+}
